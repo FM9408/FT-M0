@@ -1,0 +1,15 @@
+-- for --
+
+El ciclo for sirve para que la tarea (funcion) se aplique una cantidad de veces hasta llegar a un objetivo que se haya puesto dando un número de pasos que se haya puesto. 
+
+-- && --
+
+Se usa para incluir algo dentro de una comprobación.
+
+-- || --
+
+Se usa para excluir algo dentro de una comprobación.
+
+-- ! --
+
+Se usa para negar algo dentro de una comprobación.
