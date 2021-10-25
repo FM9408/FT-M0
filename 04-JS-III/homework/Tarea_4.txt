@@ -1,0 +1,2 @@
+-- Arrays --
+Los Arrays son son un grupo de opciones (variables o constantes) a las que puede recurrir una acción (funcion) para funcionar.
