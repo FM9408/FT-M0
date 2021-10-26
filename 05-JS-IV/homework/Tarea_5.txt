@@ -1,0 +1,11 @@
+-- Objetos --
+
+Los Objetos son un conjunto de caracteristas (propiedades) que ligan a un nombre (clave) con un valor dado; todo en JavaScript es considerado un objeto.
+
+-- Propiedades --
+
+Las propiedades son las caracteristicas de un objeto y que son exclusivas de dicho objeto.
+
+-- Métodos --
+
+Los métodos son las funciones guardadas dentro de un objeto y estos siempre se les invoca con una notación de punto.
