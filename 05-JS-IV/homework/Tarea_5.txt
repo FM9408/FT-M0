@@ -9,3 +9,12 @@ Las propiedades son las caracteristicas de un objeto y que son exclusivas de dic
 -- Métodos --
 
 Los métodos son las funciones guardadas dentro de un objeto y estos siempre se les invoca con una notación de punto.
+
+-- Bucle for in --
+
+Es como el bucle for of pero se utiliza especialmente para recorrer las propiedades (keys) de un objeto. Tambien es utilizado para acceder a o modificar todas las propiedades. 
+
+-- Bracket y dot notation --
+
+Aunque se pueden utilizar cualquera de las dos (incluso mezclarlas) la dot notation se suele utilizar cuando se conoce el nombre de la propiedad
+que se está buscando y la bracket notation se suele utilizar cuando no se conoce el nombre de la propiedad que se esta buscando.
